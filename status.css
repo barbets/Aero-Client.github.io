@@ -7,13 +7,13 @@
 }
 
 .serverstatus1::after {
-    content: "DOWN";
+    content: "ERROR";
     color: red;
 }
 
 .serverstatus2::after {
-    content: "UP";
-    color: green;
+    content: "ERROR";
+    color: red;
 }
 
 .developmentstatus1-label::after {
@@ -25,13 +25,13 @@
 }
 
 .developmentstatus1::after {
-    content: "Removed";
+    content: "ERROR";
     color: red;
 }
 
 .developmentstatus2::after {
-    content: "Coming Soon";
-    color: green;
+    content: "ERROR";
+    color: red;
 }
 
 .aboutus::after {
