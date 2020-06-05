@@ -7,5 +7,5 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client is no longer in development, please use Lunar Client, it's better.";
+    content: "Aero Client is currently being worked on for production.";
 }
