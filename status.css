@@ -25,13 +25,13 @@
 }
 
 .developmentstatus1::after {
-    content: "Slow";
-    color: #FFBD00;
+    content: "Removed";
+    color: red;
 }
 
 .developmentstatus2::after {
     content: "Coming Soon";
-    color: GREEN;
+    color: green;
 }
 
 .aboutus::after {
