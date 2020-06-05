@@ -1,0 +1,11 @@
+.changelogtitle::after {
+    content: "Aero Client Public Changelog";
+}
+
+.changelogauthor::after {
+    content: "By Aero Client Development Team";
+}
+
+.changelogcontent::after {
+    content: "Aero Client 1.8 is getting ready for full scale production.";
+}

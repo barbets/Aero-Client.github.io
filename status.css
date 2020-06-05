@@ -1,0 +1,49 @@
+.serverstatus1-label::after {
+    content: "Aero Client Site:";
+}
+
+.serverstatus2-label::after {
+    content: "GitHub Site:";
+}
+
+.serverstatus1::after {
+    content: "ERROR";
+    color: red;
+}
+
+.serverstatus2::after {
+    content: "ERROR";
+    color: red;
+}
+
+.developmentstatus1-label::after {
+    content: "1.7.10:";
+}
+
+.developmentstatus2-label::after {
+    content: "1.8.9:";
+}
+
+.developmentstatus1::after {
+    content: "ERROR";
+    color: red;
+}
+
+.developmentstatus2::after {
+    content: "ERROR";
+    color: red;
+}
+
+.aboutus::after {
+    content: "Aero Client is a reskinned version of CheatBreaker and Lunar Client 1.8.9, that has more than just images and text changed, we offer cosmetics for all, a launcher for our users to use, and much more!";
+}
+
+.featured-server::after {
+    background-image: url("images/servers/featured.png");   
+}
+
+/* 
+SLOW: FFBD00 
+FAST: GREEN 
+NONE: RED
+*/

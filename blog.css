@@ -1,0 +1,35 @@
+.blogauthor::after {
+    content: "Posted by ArcaneCiCi";
+  }
+
+.blogtitle::after {
+    content: "Huge Updates, Launcher 2.0, Friends List.";
+  }
+
+.blogcontent::after {
+    content: "Welcome to the new launcher for Aero Client! The Aero Client Team has pitched in together and put together a new launcher for you all, this includes the updated settings tab, launcher information tab, and many more things to come. The settings tab now has system information, as well as the new experimental versions, you can access the newly introduced custom 1.8 version, keep in mind it won't be very usable until we've added in mods such as toggle sprint, and a mods gui, which will be coming soon. We are bringing the friends list back very soon as well, and hopefully potion counter to 1.7.10. This update is thus far the biggest update that Aero Client has ever seen in the two years it has been running for. We hope you are enjoying Aero Client, stay tuned. We have big plans for the future of Aero Client.";
+  }
+    
+.versiontext::after {
+    content: "Powered by CiCi Games LLC • 2.0.0"
+}
+
+.launcher-version::after {
+ content: "v2.0.0"
+}
+
+.version1::after {
+    display: none;
+}
+
+.version2::after {
+    display: none;
+}
+
+.version3::after {
+    display: none;
+}
+
+.version4::after {
+    display: none;
+}
