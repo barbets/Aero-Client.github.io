@@ -3,17 +3,17 @@
   }
 
 .blogtitle::after {
-    content: "We'll be right back.";
-  }
+    content: "Updates, and downtime";
+}
 
 .blogcontent::after {
-    content: "We'll be back soon.";
+    content: "Hey guys! Aero Client is back online and running smoothly, we hope you are enjoying the new launcher, and hope to see some feedback in our Discord Server. You may find that in the information tab.";
 }
     
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 0.0.0"
+    content: "Powered by CiCi Games LLC • 2.0.1"
 }
 
 .launcher-version::after {
- content: "v0.0.0"
+ content: "v2.0.1"
 }
