@@ -8,4 +8,5 @@
 
 .changelogcontent::after {
     content: "Aero Client Custom 1.8.9 now has Pinned Servers, Toggle Sneak and Toggle Sprint, and working cosmetics.";
+    top: -10px;
 }
