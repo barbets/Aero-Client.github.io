@@ -11,9 +11,9 @@
 }
     
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.1"
+    content: "Powered by CiCi Games LLC • 2.0.5"
 }
 
 .launcher-version::after {
- content: "v2.0.1"
+ content: "v2.0.5"
 }
