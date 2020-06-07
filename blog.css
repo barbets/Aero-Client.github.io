@@ -3,7 +3,7 @@
   }
 
 .blogtitle::after {
-    content: "The First Banwave";
+    content: "The First Banwave, and 1.8.9";
 }
 
 .blogcontent::after {
