@@ -3,11 +3,11 @@
   }
 
 .blogtitle::after {
-    content: "Updates, and downtime";
+    content: "The First Banwave";
 }
 
 .blogcontent::after {
-    content: "Hey guys! Aero Client is back online and running smoothly, we hope you are enjoying the new launcher, and hope to see some feedback in our Discord Server. You may find that in the information tab.";
+    content: "Aero Client has just had its first official banwave, cheating is not permitted on the client, endorsing cheating in any way will also get you client banned, so be careful of what you upload or talk about, we're all tired of people cheating without justice being done, so be mindful of that when playing. We would also like to announce that we will have our very own cosmetics store soon, specifically for the new custom 1.8 Aero Client. If you buy cosmetics when the store is up, those cosmetics will not transfer over to the CheatBreaker or Lunar Client reskinned parts of Aero Client. The custom 1.8 will be updated on the launcher for everyone to use soon, stay tuned 👀.";
 }
     
 .versiontext::after {
