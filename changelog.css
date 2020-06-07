@@ -1,5 +1,5 @@
 .changelogtitle::after {
-    content: "Aero Client Public Changelog";
+    content: "[4ef79de -> 8en35er]";
 }
 
 .changelogauthor::after {
@@ -7,5 +7,5 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client is currently being worked on for production.";
+    content: "Aero Client Custom 1.8.9 now has Pinned Servers, Toggle Sneak and Toggle Sprint, and working cosmetics.";
 }
