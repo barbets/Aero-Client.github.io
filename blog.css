@@ -3,17 +3,18 @@
   }
 
 .blogtitle::after {
-    content: "The First Banwave, and 1.8.9";
+    content: "Welcome to Aero Client";
 }
 
 .blogcontent::after {
-    content: "Aero Client has just had its first official banwave, cheating is not permitted on the client, endorsing cheating in any way will also get you client banned, so be careful of what you upload or talk about, we're all tired of people cheating without justice being done, so be mindful of that when playing. We would also like to announce that we will have our very own cosmetics store soon, specifically for the new custom 1.8 Aero Client. If you buy cosmetics when the store is up, those cosmetics will not transfer over to the CheatBreaker or Lunar Client reskinned parts of Aero Client. The custom 1.8 will be updated on the launcher for everyone to use soon, stay tuned 👀.";
+    font-weight: bold;
+    content: "Aero Client is a modpack and a client-side anticheat built for Minecraft 1.7.10. The goal and mission of Aero Client is to provide an alternative to the mainstream clients such as Lunar Client, Badlion Client, and PvPLounge Client. Aero Client has all the mods you would need for HCF, Practice, and many more gamemodes. In the early stages of release, players may encounter issues releated to gameplay, or with the launcher. Thank you for being patient with us and supporting us to make Aero Client better. We will be pushing out multiple updates in the coming days to make the client better in the ways that we can.";
 }
     
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.5"
+    content: "Powered by CiCi Games LLC • 2.0.6"
 }
 
 .launcher-version::after {
- content: "v2.0.5"
+ content: "v2.0.6"
 }
