@@ -1,19 +1,19 @@
 .serverstatus1-label::after {
-    content: "Aero Client Site:";
+    content: "";
 }
 
 .serverstatus2-label::after {
-    content: "GitHub Site:";
+    content: "";
 }
 
 .serverstatus1::after {
-    content: "DOWN";
+    content: "";
     color: red;
 }
 
 .serverstatus2::after {
-    content: "UP";
-    color: green;
+    content: "";
+    color: red;
 }
 
 .developmentstatus1-label::after {
@@ -25,13 +25,13 @@
 }
 
 .developmentstatus1::after {
-    content: "Slow";
-    color: #FFBD00;
+    content: "No longer in production";
+    color: red;
 }
 
 .developmentstatus2::after {
-    content: "Slow";
-    color: #FFBD00;
+    content: "No longer in production";
+    color: red;
 }
 
 .aboutus::after {
