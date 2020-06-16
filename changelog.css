@@ -8,5 +8,5 @@
 
 .changelogcontent::after {
     content: "Aero Client development has been halted.";
-    top: -10px;
+    top: -10%;
 }
