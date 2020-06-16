@@ -25,12 +25,12 @@
 }
 
 .developmentstatus1::after {
-    content: "ERROR";
+    content: "Stopped.";
     color: red;
 }
 
 .developmentstatus2::after {
-    content: "ERROR";
+    content: "Stopped.";
     color: red;
 }
 
