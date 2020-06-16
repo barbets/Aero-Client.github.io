@@ -1,21 +1,19 @@
 .blogauthor::after {
-    content: "Posted by ArcaneCiCi";
+    content: "Posted by ArcaneCiCi, and the rest of the Aero Client Team.";
   }
 
 .blogtitle::after {
-    content: "Welcome to Aero Client";
+    content: "Important Announcement";
 }
 
 .blogcontent::after {
-    font-weight: bold;
-    font-style: italic;
-    content: "Aero Client is a modpack and a client-side anticheat built for Minecraft 1.7.10 and 1.8.9. The goal and mission of Aero Client is to provide an alternative to the mainstream clients such as Lunar Client, Badlion Client, and PvPLounge Client. Aero Client has all the mods you would need for HCF, Practice, and many more gamemodes. In the early stages of release, players may encounter issues releated to gameplay, or with the launcher. Thank you for being patient with us and supporting us to make Aero Client better. We will be pushing out multiple updates in the coming days to make the client better in the ways that we can.";
+    content: "Hey guys. I'm sure you're all asking where the updates are, and to be honest we haven't pushed any updates at all since the new launcher update, the team and I have lost motivation entirely. For the past two and a half years, Aero Client has been the best CheatBreaker reskin ever seen, we've stopped countless cheaters, we've achieved what most reskins could never do, make a launcher that works, we gave everyone cosmetics, and much more. These milestones have been amazing to achieve, but as many know, all good things must come to an end. Aero Client will not receive updates in the near future. Sorry guys. Thank you for supporting us. We might return, but that is unclear. AGAIN, Aero Client will still be kept up, but will not receive updates, cosmetics will still be kept as well if you have them.";
 }
     
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.7"
+    content: "Powered by CiCi Games LLC • 2.0.10"
 }
 
 .launcher-version::after {
- content: "v2.0.7"
+ content: "v2.0.10"
 }
