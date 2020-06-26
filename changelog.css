@@ -1,5 +1,5 @@
 .changelogtitle::after {
-    content: "Public Changelog Page";
+    content: "[3a5c3c4 -> ";
 }
 
 .changelogauthor::after {
