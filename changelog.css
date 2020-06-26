@@ -7,6 +7,6 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client development has been halted.";
+    content: "Aero Client 1.8 now has pinned servers, working cosmetics, and Toggle Sprint.";
     top: -10%;
 }
