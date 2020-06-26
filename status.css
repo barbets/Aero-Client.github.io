@@ -25,13 +25,13 @@
 }
 
 .developmentstatus1::after {
-    content: "Stopped.";
-    color: red;
+    content: "Fast";
+    color: green;
 }
 
 .developmentstatus2::after {
-    content: "Stopped.";
-    color: red;
+    content: "Slow";
+    color: #FFBD00;
 }
 
 .aboutus::after {
