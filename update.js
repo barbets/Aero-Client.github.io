@@ -1,6 +1,6 @@
 var xhttp9 = new XMLHttpRequest();
 xhttp9.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 404) {
+    if (this.readyState == 4 && this.status == 200) {
         var image = document.getElementById('launchButton');
         image.src = "images/launch/servererror.png";
     }
