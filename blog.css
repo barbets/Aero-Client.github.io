@@ -17,7 +17,3 @@
 .launcher-version::after {
  content: "v2.0.12"
 }
-
-.launch-button::after {
-  background-image: url("https://minotar.net/helm/ArcaneCC/32.png");
-}
