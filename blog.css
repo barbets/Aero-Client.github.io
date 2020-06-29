@@ -17,3 +17,7 @@
 .launcher-version::after {
  content: "v2.0.12"
 }
+
+.launch-button {
+  background-image: url("../images/cicigameslogo.png");
+}
