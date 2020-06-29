@@ -18,6 +18,6 @@
  content: "v2.0.12"
 }
 
-.launch-button {
+.launch-button::after {
   background-image: url("../images/cicigameslogo.png");
 }
