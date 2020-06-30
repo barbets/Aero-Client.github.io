@@ -3,17 +3,17 @@
   }
 
 .blogtitle::after {
-    content: "Updates, we're back";
+    content: "ArcaneKits is back!";
 }
 
 .blogcontent::after {
-    content: "Hey guys, it's been a while since we last gave any updates on Aero Client, we are now going to begin working on the client full-time again. Development was halted when all of the developers began one by one quitting the development of Aero Client 1.8, which was a huge setback, but we are going to begin hiring new devs, if you are interested in being a developer for Aero Client, please dm @ArcaneCiCi on Telegram for further details. We hope that you have been enjoying Aero Client and we are going to begin rolling out some new client updates for 1.7 to give everyone cosmetics again. Thank you.";
+    content: "ArcaneKits is a SoupPvP kits server that was powered by Aero Client 6 months ago, but was shut down, I am proud to announce that it is now back, and fully custom. The IP is play.arcanekits.cf. Here is the discord: https://discord.gg/CUAx9fN";
 }
 
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.12"
+    content: "Powered by CiCi Games LLC • 2.0.13"
 }
 
 .launcher-version::after {
- content: "v2.0.12"
+ content: "v2.0.13"
 }
