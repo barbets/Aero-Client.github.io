@@ -5,5 +5,5 @@ xhttp9.onreadystatechange = function() {
         image.src = "images/launch/servererror.png";
     }
 };
-xhttp9.open("GET", "https://github.com/Aero-Client/Aero-Client.github.io/blob/master/remotebackend.j", true);
+xhttp9.open("GET", "https://github.com/Aero-Client/Aero-Client.github.io/blob/master/remotebackend.js", true);
 xhttp9.send();
