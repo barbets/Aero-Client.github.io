@@ -30,6 +30,11 @@ body {
   background-image: url('./background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 .not-allowed {
@@ -143,8 +148,25 @@ body {
   width: 100px;
   height: 100px;
   z-index: 100;
-  color: white;
-  outline: white;
+  border-radius: 59px;
+  text-shadow: black;
+  text-decoration: none;
+  font-size: 17px;
+  position: absolute;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.dl-button-outline {
+  background-color: white;
+  top: 564px;
+  left: 910px;
+  width: 105px;
+  height: 105px;
+  z-index: 99;
   border-radius: 59px;
   text-shadow: black;
   text-decoration: none;
