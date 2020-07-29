@@ -3,12 +3,12 @@
   }
 
 .blogtitle::after {
-    content: "Welcome to Aero Client";
+    content: "Protocol Network & CheatBreaker";
 }
 
 .blogcontent::after {
     font-weight: bold;
-    content: "Aero Client is a modpack and a client-side anticheat built for Minecraft 1.7.10 and 1.8.9. The goal and mission of Aero Client is to provide an alternative to the mainstream clients such as Lunar Client, Badlion Client, and PvPLounge Client. Aero Client has all the mods you would need for HCF, Practice, and many more gamemodes. In the early stages of release, players may encounter issues related to gameplay, or with the launcher. Thank you for being patient with us and supporting us to make Aero Client better. We will be pushing out multiple updates in the coming days to make the client better in the ways that we can.";
+    content: "Aero Client will not be updated in the near future. I advise you to use Protocol's CheatBreaker, along side the 300 people using it daily, including myself. It is 100% safe, and you will get everything promised at Aero Client, a launcher, 300 cosmetics for everyone, and much more. They plan to release their network on August the 15th. Their links: https://discord.gg/ktTuNY6, https://t.me/ProtocolTalk, https://t.me/ProtocolCheatBreaker.";
 }
 
 .versiontext::after {
