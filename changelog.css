@@ -1,12 +1,12 @@
 .changelogtitle::after {
-    content: "Client Update [3a5c3c4 -> b740c27]";
+    content: "";
 }
 
 .changelogauthor::after {
-    content: "By Aero Client Development Team";
+    content: "";
 }
 
 .changelogcontent::after {
-    content: "Aero Client 1.8 now has pinned servers, working cosmetics, and Toggle Sprint.";
+    content: "";
     top: -10%;
 }
