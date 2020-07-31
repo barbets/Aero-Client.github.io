@@ -8,13 +8,13 @@
 
 .blogcontent::after {
     font-weight: bold;
-    content: "Aero Client is running smoothly. I advise you to use Protocol's CheatBreaker, along side the 300 people using it daily, including myself. It is 100% safe, and you will get everything promised at Aero Client, a launcher, 300 cosmetics for everyone, and much more. They plan to release their network on August the 15th. Their links: https://discord.gg/ktTuNY6, https://t.me/ProtocolTalk, https://t.me/ProtocolCheatBreaker.";
+    content: "Aero Client is not longer being continued. I advise you to use Protocol's CheatBreaker, along side the 300 people using it daily, including myself. It is 100% safe, and you will get everything promised at Aero Client, a launcher, nearly 300+ cosmetics for everyone, and much more. They plan to release their network on August the 15th. Their links: https://discord.gg/ktTuNY6, https://t.me/ProtocolTalk, https://t.me/ProtocolCheatBreaker.";
 }
 
 .versiontext::after {
-    content: "Powered by CiCi Games LLC • 2.0.17"
+    content: "Powered by CiCi Games LLC • 0.0.0"
 }
 
 .launcher-version::after {
- content: "v2.0.17"
+ content: "v0.0.0"
 }
