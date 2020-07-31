@@ -25,17 +25,17 @@
 }
 
 .developmentstatus1::after {
-    content: "Fast";
-    color: green;
+    content: "Discontinued";
+    color: red;
 }
 
 .developmentstatus2::after {
-    content: "Slow";
-    color: #FFBD00;
+    content: "Discontinued";
+    color: red;
 }
 
 .aboutus::after {
-    content: "Aero Client is a reskinned version of CheatBreaker and Lunar Client 1.8.9, that has more than just images and text changed, we offer cosmetics for all, a launcher for our users to use, and much more!";
+    content: "Aero Client was a reskinned version of CheatBreaker and Lunar Client 1.8.9, that had more than just images and text changed, we offer cosmetics for all, a launcher for our users to use, and much more!";
 }
 
 .featured-server::after {
