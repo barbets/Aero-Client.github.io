@@ -1,5 +1,5 @@
 .changelogtitle::after {
-    content: "Client Update [3a5c3c4 -> b740c27]";
+    content: "Client Update [94f2a53 -> a5b1fd3]";
 }
 
 .changelogauthor::after {
@@ -7,6 +7,6 @@
 }
 
 .changelogcontent::after {
-    content: "Aero Client 1.8 now has pinned servers, working cosmetics, and Toggle Sprint.";
+    content: "Aero Client 1.7.10 has received a few updates in the past few days, adding new cloaks, and removing a few voice chat settings from the client. If you're still having issues launching 1.7.10, we are working on getting this issue fixed.";
     top: -10%;
 }
